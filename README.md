@@ -11,6 +11,14 @@ Snippets to 'boost' websites on [Arc browser](https://arc.net/)
 
 ----
 
+### All Boosts
+
+- [Grayscale Pygame Docs](#grayscale-pygame-docs)
+- [No Dev.to Sidebars](#simple-devto)
+- [Simple TikTok](#simple-tiktok) 
+
+----
+
 ### Grayscale Pygame Docs
 
 Changes the pygame docs color pallette from greens to grayscale
