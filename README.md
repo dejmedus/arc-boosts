@@ -30,7 +30,8 @@ Changes the pygame docs color pallette from greens to grayscale
 
 <details>
 <summary>View</summary>
-
+    
+<img width="1272" alt="pygame docs" src="https://github.com/dejmedus/arc-boosts/assets/59973863/5b576734-fc18-4092-9d7a-7659c1a6d708">
 
 </details>
 
@@ -74,7 +75,8 @@ Removes the Dev.to sidebars
 
 <details>
 <summary>View</summary>
-
+    
+<img width="1274" alt="devto" src="https://github.com/dejmedus/arc-boosts/assets/59973863/d62f902e-40f1-433c-ba84-5a9faa6188aa">
 
 </details>
 
@@ -100,7 +102,8 @@ Simplifies the TikTok sidebar by removing the 'Following accounts' list
 
 <details>
 <summary>View</summary>
-
+    
+<img width="944" alt="tiktok" src="https://github.com/dejmedus/arc-boosts/assets/59973863/490d7314-22a6-4c72-bc3a-c69a3038f6b7">
 
 </details>
 
