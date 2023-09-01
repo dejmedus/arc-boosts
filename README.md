@@ -4,10 +4,10 @@ Snippets to 'boost' websites on [Arc browser](https://arc.net/)
 
 ### How to add a boost
 
-1. On Arc browser go to arc://boost/new
-2. Select a template (Style, Replace, Inject, or Custom)
-3. Enter the URL of the targeted website
-4. Copy in the boost
+1. Go to target website
+2. cmd+t "new boost"
+3. Click Code
+4. Copy in the boost to CSS tab
 
 ----
 
@@ -102,8 +102,7 @@ Removes sidebar info and lowers icon opacity unless hovered
 
 <details>
 <summary>View</summary>
-    
-
+    <img width="1787" alt="simple-tiktok" src="https://github.com/dejmedus/arc-boosts/assets/59973863/2888d640-a847-4b44-84cb-8a7f9225a589">
 </details>
 
 ```css
