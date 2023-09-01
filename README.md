@@ -94,7 +94,7 @@ Removes the Dev.to sidebars
 
 ### Simple TikTok
 
-Simplifies the TikTok sidebar by removing the 'Following accounts' list
+Removes sidebar info and lowers icon opacity unless hovered
 
 | Template | URL                |
 | -------- | ------------------ |
@@ -103,7 +103,6 @@ Simplifies the TikTok sidebar by removing the 'Following accounts' list
 <details>
 <summary>View</summary>
     
-<img width="944" alt="tiktok" src="https://github.com/dejmedus/arc-boosts/assets/59973863/490d7314-22a6-4c72-bc3a-c69a3038f6b7">
 
 </details>
 
@@ -111,4 +110,54 @@ Simplifies the TikTok sidebar by removing the 'Following accounts' list
 [class*="DivUserContainer"] {
   visibility: hidden;
 }
+[class*="DivFooterContainer"] {
+  visibility: hidden;
+}
+[class*="DivMessageIconContainer"] {
+  visibility: hidden;
+}
+[class*="DivHeaderLeftContainer"] {
+  visibility: hidden;
+}
+[class*="DivUpload"] {
+  visibility: hidden;
+}
+[class*="DivHeaderInboxContainer"] {
+  visibility: hidden;
+}
+[class*="AppText"] {
+  visibility: hidden;
+}
+/* music icon */
+/* [class*="StyledIcon"] {
+  visibility: hidden;
+}
+[class*="MusicText"] {
+  visibility: hidden;
+} */
+[class*="StyledFollowButtonTux"] {
+  opacity: 40%;
+}
+[class*="StyledFollowButtonTux"]:hover {
+  opacity: 100%;
+}
+[class*="SpanIconWrapper"] ~ strong{
+  visibility: hidden;
+}
+[class*="SpanIconWrapper"]:hover ~ strong{
+  visibility: visible;
+}
+[class*="SpanIconWrapper"]{
+  opacity: 40%;
+}
+[class*="SpanIconWrapper"]:hover{
+  opacity: 100%;
+}
+[class*="UlMainNav"]{
+  opacity: 40%;
+}
+[class*="UlMainNav"]:hover{
+  opacity: 100%;
+}
+
 ```
