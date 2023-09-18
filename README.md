@@ -48,6 +48,9 @@ Changes the text colors to gray-scale and centers the linux manual pages
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
     "Helvetica Neue", Arial, sans-serif !important;
 }
+html {
+  background-color: var(--bg) !important;
+}
 body {
   color: var(--text) !important;
   background-color: var(--bg) !important;
