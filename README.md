@@ -26,6 +26,8 @@ Changes the text colors to gray-scale and centers the linux manual pages
 
 #### URL: https://man7.org/linux/man-pages
 
+<img width="1792" alt="Linux manual webpage" src="https://github.com/dejmedus/arc-boosts/assets/59973863/bcf5014c-d77b-4cfb-af06-5630419979e4">
+
 ```css
 :root {
   --text: black;
